@@ -1,6 +1,11 @@
-INSTRUCTIONS: https://hackaday.io/project/7409-highly-configurable-3d-printed-helmholtz-coil
+Instructions
+============
 
-SUMMARY:
+https://hackaday.io/project/7409-highly-configurable-3d-printed-helmholtz-coil
+
+
+Summary
+=======
 
 Helmholtz coils contain a region of uniform magnetic field which is common used to measure the strength of magnets, measure electrical charges at the atomic level and nulling out earths magnetic field. The magnetic field calculation is done for you (no math).
 
@@ -20,6 +25,7 @@ Helmholtz Coil Configuration Statistics:
         Maximum magnetic coil capacity: 5155.49396nT for
         the provded gauge
         Usable Volume (Cylinder): 105Length(mm) x 70Diameter(mm)
+
 The inner cylinder of the coils (the space that is 1/3 the diameter of coil), denotes the area of uniform magnetic field.
 
 The platform for magnetic experiments is replaceable, so you can have switchable platforms for applications.
