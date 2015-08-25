@@ -1,7 +1,7 @@
 Instructions
 ============
 
-https://hackaday.io/project/7409-highly-configurable-3d-printed-helmholtz-coil
+http://hackaday.io/project/7409-highly-configurable-3d-printed-helmholtz-coil
 
 
 Summary
